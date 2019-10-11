@@ -1,0 +1,15 @@
+h1 {
+    background-color: aqua;
+    padding: 5px;
+    text-align: center;
+}
+
+#paragraph1 {
+    border: 2px solid #000;
+    font-size: 24px;
+}
+
+#paragraph2 {
+    border: 2px solid #000;
+    font-size: 24px;
+}
